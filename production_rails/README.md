@@ -41,3 +41,19 @@ config.serve_static_assets = true
 ```
 rvmsudo rails s -p 80 -d
 ```
+
+##Database Configuration
+
+If you have trouble installing Postgres or MySQL you may have to download and install the dev tools:
+
+#####Postgres
+
+```
+sudo apt-get install libpq-dev
+```
+
+#####MySQL
+
+```
+sudo apt-get install libmysqlclient-dev
+```
