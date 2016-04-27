@@ -13,3 +13,9 @@
 
 ## Cordova
 1. [Submit Cordova App to Google Play](submitting_android_apps/)
+
+## GitLab
+1. [Common Issues With Install From Source](fix_problems_with_gitlab_from_source/)
+
+## SQL Installations
+1. [Install MySQL on Ubuntu 14.04](install_mysql_ubuntu/)
