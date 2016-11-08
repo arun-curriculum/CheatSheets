@@ -7,6 +7,9 @@
 2. [Production Rails](production_rails/)
 3. [Enable NAT and host-only networking for VirtualBox](networking_virtualbox/)
 
+### Paperclip
+1. [Configuring Paperclip to use AWS S3](configure_paperclip_for_s3/)
+
 ## Node
 
 ### Utilities
